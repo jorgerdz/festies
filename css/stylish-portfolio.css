@@ -249,8 +249,17 @@ a:hover {
     padding-top: 1.4em;
 }
 
-/* Footer */
-
 footer {
+    background-color: rgb(138, 40, 138);
+    color: white;
     padding: 100px 0;
+}
+
+footer a {
+    color: rgb(90, 166, 166);
+}
+
+
+footer a:hover {
+    color: rgb(90, 166, 230);
 }
